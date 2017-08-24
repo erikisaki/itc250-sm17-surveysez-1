@@ -10,7 +10,7 @@
  * The only difference is the pager version links to the list pager version to create a
  * separate application from the original list/view.
  *
- * @package nmPager
+ * @package SurveySez
  * @author Bill Newman <williamnewman@gmail.com>
  * @version 3.02 2011/05/18
  * @link http://www.newmanix.com/
